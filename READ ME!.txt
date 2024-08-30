@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------
+			               Controls!
+---------------------------------------------------------------------------------
+
+Up: W
+Down: S
+Left: A
+Right: D
+Shoot: Spacebar/Left Click
+Interact: Left Click
+
+---------------------------------------------------------------------------------
+			              How To Play!
+---------------------------------------------------------------------------------
+
+In Galactic Onslaught your objective is to kill the enemies, collect score & progress
+through the levels to ultimately fight the boss at the end. Take flight and use the
+controls above to manipulate the player and fight the enemies to powerup and defeat the
+waves of horde that appear before you!

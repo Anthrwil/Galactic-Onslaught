@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - PickUp
+  - Enemy Bullet A
+  - Enemy Bullet B
+  - Enemy Bullet C
+  - Enemy D
+  - Enemy A
+  - Enemy B
+  - Enemy C
+  - HealthUp
+  - 1UP
+  - AtkDmg
+  - MvSpd
+  - Enemy Bullet B1
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1297091623
+    locked: 0
+  - name: Bullet
+    uniqueID: 4130244335
+    locked: 0
+  - name: Pickups
+    uniqueID: 167458769
+    locked: 0
+  - name: Player
+    uniqueID: 951338917
+    locked: 0
+  - name: Enemies
+    uniqueID: 2775326393
+    locked: 0
